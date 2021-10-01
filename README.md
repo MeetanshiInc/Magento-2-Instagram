@@ -6,7 +6,7 @@ Boost the traffic of your Magento 2 store. Increase Instagram followers and enga
 
 The feature-rich Magento 2 Instagram extension comes with 3 pop up views to choose from, making an amazing shop in the store.
 
-**Benefits of Meetanshi’s Magento 2 Instagram extension:**
+**Features of Meetanshi’s Magento 2 Instagram extension:**
 
 * Display Instagram images for the entire store, particular categories or products.
 * To start using the Magento 2 Instagram Shop Integration extension, enter the username and authenticate the Instagram profile by adding access token.
