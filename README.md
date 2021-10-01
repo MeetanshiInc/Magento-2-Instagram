@@ -1,6 +1,6 @@
 # Magento 2 Instagram
 
-Instagram has the highest monthly active users among social media platforms. Leveraging the platform for the Magento 2 store is only sane. Hence, Meetanshi has developed [*** Magento 2 Instagram ***] (https://meetanshi.com/magento-2-instagram.html)extension to integrate Magento 2 store with Instagram.
+Instagram has the highest monthly active users among social media platforms. Leveraging the platform for the Magento 2 store is only sane. Hence, Meetanshi has developed [***Magento 2 Instagram***] (https://meetanshi.com/magento-2-instagram.html)extension to integrate Magento 2 store with Instagram.
 
 Boost the traffic of your Magento 2 store. Increase Instagram followers and engagement. Create a beautiful Insta shop in the store. Everything with the help of the Meetanshi’s module.
 
